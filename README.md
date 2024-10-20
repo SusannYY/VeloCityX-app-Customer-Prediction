@@ -3,13 +3,14 @@ VelocityX is focused on creating an immersive spectator experience that monetize
 - Immersive Fan Experience: During major racing events, VeloCityX offers “Live 360” coverage. Using mobile devices, fans can experience races from multiple angles, including cockpit views, aerial drones. Live chats and forums allow fans to discuss races in real-time.
 - Interactive Fan Engagement: For interactive fan engagement, VelocityX introduces “Fan challenges” users can predict race outcomes, such as which vehicle will complete the most laps without recharge or which team will achieve the fastest pit stop. These challenges are gamified and allow fans to earn points and rewards for accurate predictions.
 - Monetization Strategies: VeloCityX includes “Virtual Merchandise and Sponsorship Integration” Fans can purchase virtual merchandise such as team jerseys, vehicle skins, and exclusive digital collectibles. The app offers sponsorship opportunities where brands can sponsor race events or place ads to reach target audiences.
-- 
+
 **My mission as part of the Data Science team is to use data to improve fan engagement and provide insights that will drive monetization strategies for VeloCityX. I will explore user interaction data to draw insights on fan behavior and offer recommendations to optimize fan challenges, merchandise sales, and sponsorship integration.**
   
-# Recommendation and Result
+# Improvement Rate: Approximately 40% (38.00%-41.00%) of users moved to 'Medium to High Purchases'
 Based on the insights from K-Means clustering and Random Forest analysis, we propose a new fan challenge called the 'Ad-Boosted Prediction Challenge'. This challenge targets different user clusters in tailored ways to maximize engagement and virtual merchandise purchases. An example of a tailored way: provide optional paid insights for users who are more tended to make predictions on racing games. Users who interact with ads will receive boosted rewards for correct predictions.
 
-## Improvement Rate: Approximately 40% (38.00%-41.00%) of users moved to 'Medium to High Purchases'
+The proposed intervention strategies have demonstrated significant positive impacts across different user clusters, leading to improved engagement and monetization outcomes. Details see below or the `ipynb` notebook.
+
 # Project Walkthrough
 ## Clustering - **K Means**
 ### Find the best k
