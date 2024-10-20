@@ -34,10 +34,9 @@ VelocityX is focused on creating an immersive spectator experience that monetize
 - Discount codes or exclusive virtual items could be given as rewards for accurately predicting race outcomes or for completing a certain number of challenges. This will create an additional incentive to participate in challenges and increase the likelihood of users purchasing virtual items.
 - Leverage the Competitive Spirit:
 - i.e. adding leaderboards or progress tracking where users who complete challenges could unlock unique virtual merchandise. This could enhance the competitive spirit and drive further purchases.
-# Predictive Model
-# Proposed Fan Challenge - Ad Boosted Prediction Challenge
-# Bootstrapping - simulation
-# Random Forest - predicted outcomes
+# Proposed Strategy
+## Ad boosted prediction challenge for fans
+# Bootstrapping - simulated result
 ## Improvement Rate: Approximately 40% (38.00%-41.00%) of users moved to 'Medium to High Purchases'
 - The proposed intervention strategies have demonstrated significant positive impacts across different user clusters, leading to improved engagement and monetization outcomes.
 ## Key observations from the transition matrices are as follows:
